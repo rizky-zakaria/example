@@ -16,7 +16,7 @@
       <div class="float-right d-none d-sm-block">
           <b>Version</b> 0.0.1-cw
       </div>
-      <strong>Copyright &copy; 2022-2023 <a href="https://adminlte.io">Consult-app</a>.</strong> All rights reserved.
+      <strong>Copyright &copy; 2022-2023 <a href="https://adminlte.io">Bisadong.id</a>.</strong> All rights reserved.
   </footer>
 
   <!-- Control Sidebar -->
